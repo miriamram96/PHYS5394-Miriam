@@ -80,7 +80,7 @@ Using the values from **DATASCIENCE_COURSE/SIGNALS/testcrcbgenqcsig.m**:
 
 Therefore, the code takes one sample every <u>0.004 seconds</u>.
 
-## MATLAB sources
+## MATLAB References:
 
 The quadratic chirp numbers and sampling setup come from these provided MATLAB
 files:
