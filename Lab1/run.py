@@ -155,7 +155,7 @@ for fileName, title, signalValues in signalPlots:
             stepFreq, stepFFTMag = positive_periodogram(stepSignal, samplIntrvl)
             comparisonAxis.plot(stepFreq, stepFFTMag,marker="o", markersize=3, linewidth=1.1, label=f"f0 = {f0:.2f} Hz")
 
-        comparisonAxis.set_xlim(0, 15)
+        comparisonAxis.set_xlim(0, 30)
         comparisonAxis.set_xlabel("Frequency (Hz)")
         comparisonAxis.set_ylabel("|FFT|")
         comparisonAxis.set_title("Slide 14: Sinusoid Frequency Comparison")
