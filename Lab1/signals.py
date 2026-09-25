@@ -8,8 +8,6 @@ Author: Miriam Ramos Arevalo
 Date: September 2026
 """
 
-from traitlets import This
-
 import numpy as np
 
 
