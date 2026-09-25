@@ -55,7 +55,7 @@ signalPlots = [
     ("quadratic_chirp", "Quadratic chirp", quadChirp),
     ("sinusoid", "Sinusoid", sinusoidSignal),
     ("linear_chirp", "Linear chirp", linearChirp),
-    ("sine_gaussian", "Sine-Gaussian", sineGaussian),
+    ("sine_gaussian", "Sine gaussian", sineGaussian),
     ("fm_sinusoid", "Frequency modulated (FM) sinusoid", fmSinusoid),
     ("am_sinusoid", "Amplitude modulated (AM) sinusoid", amSinusoid),
     ("am_fm_sinusoid", "AM-FM sinusoid", amFmSinusoid),
