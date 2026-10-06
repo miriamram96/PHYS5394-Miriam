@@ -17,7 +17,7 @@ I divided the lab in 3 parts:
 
 ## Files and how to run
 
-- `signals.py`: the original signal functions from Lab 1.
+- `signals.py`: the script for signal functions used in Lab 1.
 - `sampling.py`: Part 1 sampling calculations and plots.
 - `filtering.py`: Part 2 signal generation, filters, and periodograms.
 - `spectrograms.py`: Part 3 spectrograms.
