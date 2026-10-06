@@ -72,7 +72,7 @@ $$
 
 The other Lab 1 signals give:
 
-| Signal | Original equation $s(t)$ | Instantaneous frequency $f(t)$ | $f_{\max}$ (Hz) |
+| Signal |  Equation $s(t)$ | Instantaneous frequency $f(t)$ | $f_{\max}$ (Hz) |
 | --- | --- | --- | --- |
 | Sinusoid | $\sin(2\pi\,7t)$ | $7$ | 7 |
 | Linear chirp | $\sin[2\pi(2t+4t^2)]$ | $2+8t$ | 10 |
