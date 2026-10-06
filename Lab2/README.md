@@ -6,8 +6,8 @@
 I divided the lab in 3 parts:
 
 1. **Slide 1 — Nyquist sampling:** Use the eight Lab 1 signals. Find each signal's highest instantaneous frequency, then sample at the Nyquist rate, twice that rate, and ten times that rate. Plot the signals and their FFT magnitudes.
-2. **Slides 2–4 — Filtering:** Add the 3 sinusoids with the given parameters. Create low-pass, band-pass, and high-pass filters to keep one signal each. Plot the original signal's periodogram and the 3 filtered periodograms.
-3. **Slide 5 — Time frequency analysis:** Generate the 8 Lab 1 signals at a specific sampling rate and make their spectrograms.
+2. **Slides 2–4 — Filtering:** Add the 3 sinusoids with the given parameters. Create low-pass, band-pass, and high-pass filters to keep one signal in each. Plot the original signal's periodogram and the 3 filtered periodograms.
+3. **Slide 5 — Time frequency analysis:** Generate the eight Lab 1 signals at a specific sampling rate and make their spectrograms.
 
 ## Output
 
